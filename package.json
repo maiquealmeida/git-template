@@ -1,0 +1,25 @@
+{
+  "name": "@maiquealmeida/git-template",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Clone GitHub repositories and initialize as new projects",
+  "main": "index.js",
+  "bin": {
+    "git-template": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "git",
+    "clone",
+    "github",
+    "template",
+    "project"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
